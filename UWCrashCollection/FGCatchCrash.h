@@ -12,7 +12,7 @@
  *                                                                                 *
  * 需要使用这个崩溃类的时候，需要在appdelegate.m里倒入这个类的头文件。                      *
  * 然后实现uncaughtExceptionHandler方法                                             *
- * 实例demo地址：https://github.com/Fengur/FengurArchive                            *
+ * 实例demo地址：https://github.com/Fengur/FGCrashCollection                            *
  *                                                                                 *
  **********************************************************************************
  
